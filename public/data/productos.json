@@ -1,0 +1,211 @@
+{
+  "pisosrigidos": [
+    {
+      "id": "vigo_city_oak",
+      "titulo": "Vigo",
+      "imagen": "https://www.terza.com/catalogo/T15-SPC02-11237.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Descubre un piso que combina diseño, resistencia y funcionalidad para transformar cualquier espacio. Ideal para proyectos residenciales y comerciales con acabados de alta calidad.",
+      "material": "Viníl Rígido",
+      "acabado": "Madera",
+      "look": "Vigo",
+      "color": "City Oak",
+      "medidas": [
+        {
+          "formato": "183cm x 122cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "NA",
+          "piezascaja": "2",
+          "espesor": "4.5 mm",
+          "capanomble": "0.3"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=vigo_city_oak",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    },
+    {
+      "id": "berlin_ash_grey",
+      "titulo": "Berlín",
+      "imagen": "https://www.terza.com/catalogo/T15-SPC02-11242.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Tono cenizo versátil que aporta modernidad y amplitud a cualquier estancia. Perfecto para espacios contemporáneos.",
+      "material": "Viníl Rígido",
+      "acabado": "Madera",
+      "look": "Berlín",
+      "color": "Ash Grey",
+      "medidas": [
+        {
+          "formato": "183cm x 122cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "NA",
+          "piezascaja": "2",
+          "espesor": "4.5 mm",
+          "capanomble": "0.3"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=berlin_ash_grey",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    },
+    {
+      "id": "oslo_natural_oak",
+      "titulo": "Oslo",
+      "imagen": "https://www.terza.com/catalogo/T15-SPC02-11251.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Roble natural escandinavo con vetas suaves. Aporta calidez sin saturar el espacio.",
+      "material": "Viníl Rígido",
+      "acabado": "Madera",
+      "look": "Oslo",
+      "color": "Natural Oak",
+      "medidas": [
+        {
+          "formato": "183cm x 122cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "NA",
+          "piezascaja": "2",
+          "espesor": "4.5 mm",
+          "capanomble": "0.3"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=oslo_natural_oak",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    }
+  ],
+  "pisoslaminados": [
+    {
+      "id": "milano_walnut",
+      "titulo": "Milano",
+      "imagen": "https://www.terza.com/catalogo/T15-LAM01-22001.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Laminado de nogal con acabado mate y textura sincronizada. Elegancia atemporal para salas y comedores.",
+      "material": "Laminado",
+      "acabado": "Madera",
+      "look": "Milano",
+      "color": "Walnut",
+      "medidas": [
+        {
+          "formato": "121.5cm x 16.5cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "2.005",
+          "piezascaja": "10",
+          "espesor": "8 mm",
+          "capanomble": "0.4"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=milano_walnut",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    },
+    {
+      "id": "venecia_white_oak",
+      "titulo": "Venecia",
+      "imagen": "https://www.terza.com/catalogo/T15-LAM01-22015.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Roble blanco con vetas marcadas. Ideal para maximizar la luz natural en interiores pequeños.",
+      "material": "Laminado",
+      "acabado": "Madera",
+      "look": "Venecia",
+      "color": "White Oak",
+      "medidas": [
+        {
+          "formato": "121.5cm x 16.5cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "2.005",
+          "piezascaja": "10",
+          "espesor": "8 mm",
+          "capanomble": "0.4"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=venecia_white_oak",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    }
+  ],
+  "pisoaportland": [
+    {
+      "id": "manhattan_cemento_gris",
+      "titulo": "Manhattan",
+      "imagen": "https://www.terza.com/catalogo/T15-PRT01-33001.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Acabado cemento gris industrial. Perfecto para lofts, restaurantes y espacios de uso intensivo.",
+      "material": "Porcelanato",
+      "acabado": "Cemento",
+      "look": "Manhattan",
+      "color": "Gris Cemento",
+      "medidas": [
+        {
+          "formato": "60cm x 60cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "1.44",
+          "piezascaja": "4",
+          "espesor": "9 mm",
+          "capanomble": "NA"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=manhattan_cemento_gris",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    },
+    {
+      "id": "miami_carrara_blanco",
+      "titulo": "Miami",
+      "imagen": "https://www.terza.com/catalogo/T15-PRT01-33022.webp",
+      "banner": "",
+      "ambiente": "",
+      "descripcion": "Mármol Carrara blanco con vetas grises. Sofisticación clásica para baños y cocinas modernas.",
+      "material": "Porcelanato",
+      "acabado": "Mármol",
+      "look": "Miami",
+      "color": "Carrara Blanco",
+      "medidas": [
+        {
+          "formato": "60cm x 60cm",
+          "inventario": "existencias",
+          "preciominimo": "NA",
+          "preciomaximo": "NA",
+          "metroscaja": "1.44",
+          "piezascaja": "4",
+          "espesor": "9 mm",
+          "capanomble": "NA"
+        }
+      ],
+      "marca": "Terza",
+      "url": "producto.php?producto=miami_carrara_blanco",
+      "galeria1": "",
+      "galeria2": "",
+      "galeria3": ""
+    }
+  ]
+}
